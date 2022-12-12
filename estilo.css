@@ -1,0 +1,46 @@
+p:first-child {
+   color: #191013;
+   font-size: 30px;
+ }
+
+p:nth-child(2) {
+    color:#191013 ;
+    font-size: 40px;
+   
+  }
+p:nth-last-child(3) {
+   color:#191013 ;
+   
+ }
+
+ul{
+   font-size: 25px;
+}
+
+header{
+
+   background-color: #5b88a5;
+   height: 99px;
+   margin: 12px;
+   font-size: 30px;
+   color: #243a69;
+   display: flex;
+   text-shadow:#d4cdc5;
+}
+
+.formTex{
+   text-shadow: 10px 2px 5px #d4cdc5   ;
+}
+
+footer{
+  background-color: #243a69;
+  font-size: 25px;
+}
+
+
+
+    
+    
+   
+ 
+
